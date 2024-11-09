@@ -131,10 +131,6 @@ img{
 }
 
 @media  screen and (max-width:520px) {
-    #up, #under{
-        flex-direction: column;
-        flex-wrap: wrap;
-    }
     .container{
         width: 96%;
         flex-basis: 100%;
